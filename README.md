@@ -86,8 +86,9 @@ agent = MedicinePrescribingAgent()
 agent.run()
 ~~~
 OUTPUT:
+~~~
 <img width="377" height="487" alt="685618916-620a9cc2-95e3-483d-9dbf-fbe08d37acb8" src="https://github.com/user-attachments/assets/ebb6f499-7b6c-4a64-9b86-08159813c1f8" />
-
+~~~
 Result:
 Thus found the PEAS description for the given AI problem and develop an AI agent.
 
